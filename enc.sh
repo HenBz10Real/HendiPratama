@@ -5,4 +5,5 @@ if [ $check_vip = true ]; then
   echo " kamu vip "
 else
   echo " kamu bukan vip "
+
 fi
