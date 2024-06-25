@@ -33,7 +33,6 @@ text="$1"
  done
 echo
 }
-ui_printf " Kontol kalo mau hs beli cit aja, free minta gacor anj"
 print_header() {
 echo  "${RED}╭─────────────────────────────────────────────╮"
 echo  "│                HNX SETTINGS                 │"
