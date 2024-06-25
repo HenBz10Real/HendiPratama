@@ -7,13 +7,3 @@ else
   echo " kamu bukan vip "
 fi
 
-
-
-
-
-
-
-
-
-
-enter
