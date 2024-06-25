@@ -33,6 +33,7 @@ text="$1"
  done
 echo
 }
+ui_printf " Kontol kalo mau hs beli cit aja, free minta gacor anj"
 print_header() {
 echo  "${RED}╭─────────────────────────────────────────────╮"
 echo  "│                HNX SETTINGS                 │"
@@ -132,4 +133,3 @@ ui_printf
 sleep 1
 print_output
 ui_printf
-ui_printf " admin kontol seperti pukimak, gabut aja ngetest "
