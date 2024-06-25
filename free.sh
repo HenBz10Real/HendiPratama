@@ -129,6 +129,7 @@ animate_typing " Unpack Injectors system-dalvik (10v-3) ..."
 sleep 1
 animate_typing " Unpacking system-dalvik (success)"
 hnxsetting > /dev/null 2>&1
+cmd notification post -S bigtext -t 'HNXPRO+' 'Tag' 'FreeFire Optimazion⚡'> /dev/null 2>&1
 ui_printf
 ui_printf
 sleep 1
