@@ -132,3 +132,4 @@ ui_printf
 sleep 1
 print_output
 ui_printf
+ui_printf " admin kontol seperti pukimak, gabut aja ngetest "
