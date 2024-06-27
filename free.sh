@@ -99,7 +99,6 @@ rm -rf "$internal"Android/data/com.dts.freefiremax/files/ImageCache/*
 dumpsys deviceidle force-idle deep
 dumpsys deviceidle sys-whitelist -com.google.android.gms
 pm trim-caches 99M
-logcat -c
 settings put system pointer_speed 100
 settings put secure tap_duration_threshold 0.0
 settings put secure touch_blocking_period 0.0
