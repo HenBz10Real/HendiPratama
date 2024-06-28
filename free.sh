@@ -2,7 +2,7 @@ source $FUNCTION
 sc_0="https://whatsapp.com/channel/0029VaPT9RuGE56jWEdnKN28"
 sc_1="@Henpeex"
 sc_3="filesettings@users"
-version="v3.8Beta"
+version="v4.0Beta"
 RED="\033[31m"
 CYAN="\033[36m"
 output_sensix=16600000
@@ -102,6 +102,8 @@ pm trim-caches 99M
 settings put system pointer_speed 100
 settings put secure tap_duration_threshold 0.0
 settings put secure touch_blocking_period 0.0
+settings put global accessibility_reduce_transparency 1
+settings put secure screensaver_enabled 0
 }
 setprop debug.sf.late.sf.duration $output_sensix
 setprop debug.sf.use_phase_offsets_as_durations 0
