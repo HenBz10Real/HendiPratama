@@ -5,7 +5,7 @@ sc_3="filesettings@users"
 version="v4.0Beta"
 RED="\033[31m"
 CYAN="\033[36m"
-output_sensix=16600000
+output_sensix=15500000
 path_icon="/sdcard/AxeronModules/hnxsettings/bin/logo.png"
 ui_printf() {
    echo "$1"
