@@ -2,7 +2,7 @@ source $FUNCTION
 sc_0="https://whatsapp.com/channel/0029VaPT9RuGE56jWEdnKN28"
 sc_1="@Henpeex"
 sc_3="filesettings@users"
-version="v500"
+version="v5.1"
 RED="\033[31m"
 CYAN="\033[36m"
 output_sensix=15500000
